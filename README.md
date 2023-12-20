@@ -8,4 +8,9 @@ This Project is done as part of the AI club, at Puducherry Technological Univers
 
   # Wpod-net Pre-trained Model
      WPOD-NET, or Warped Planar Object Detection Network, is a pre-trained model that can detect and extract license plates from vehicle images. It was developed using insights from YOLO, SSD, and Spatial Transformer Networks (STN). 
-      To know more about this model read this paper: https://arxiv.org/abs/2212.07066
+
+   To know more about this model read this paper: https://arxiv.org/abs/2212.07066
+
+# Working of Wpod-net Model
+
+https://github.com/RAAHUL-tech/DATON/assets/70282877/36cca7f6-1761-4042-83d1-b0982803236a
