@@ -14,3 +14,9 @@ This Project is done as part of the AI club, at Puducherry Technological Univers
 # Working of Wpod-net Model
 
 https://github.com/RAAHUL-tech/DATON/assets/70282877/36cca7f6-1761-4042-83d1-b0982803236a
+
+# Project Working Video
+
+https://github.com/RAAHUL-tech/DATON/assets/70282877/a63a7963-dca8-468f-b367-4e59f1fe7d95
+
+
